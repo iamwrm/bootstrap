@@ -7,3 +7,7 @@ It should automatically setup
 - mordern_unix_tools
 - better_internet
 
+
+## Hard part
+- ssh-private-key
+- browser config
