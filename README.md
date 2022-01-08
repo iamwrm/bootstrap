@@ -10,4 +10,7 @@ It should automatically setup
 
 ## Hard part
 - ssh-private-key
-- browser config
+
+- browser config  
+    Trying linux firefox portable, need to carry user config
+
